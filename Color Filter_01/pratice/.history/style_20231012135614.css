@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: ;
+}
+nav{
+    background-color: #fff;
+    height: 3rem;
+    /* display: grid; */
+    align-items: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}

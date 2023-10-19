@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: #fff;
+    height: 3rem;
+    display: grid;
+    align-items: center;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: ;
+}
