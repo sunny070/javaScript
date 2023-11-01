@@ -29,7 +29,7 @@ function addItem(e){
     const id = new Date().getTime().toString()
     // console.log(id);
     if(value && !editFlag ){
-        createListItem(id,value)
+        
         // display alert
         displayAlert('item added to the list','success');
         // show container
