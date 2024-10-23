@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+nav{
+    background-color: #d9f99d;
+    display: grid;
+    place-items: center;
+    /* max-width: 620px; */
+    /* width: 90vw; */
+}
+.nav-container{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    max-width: 620px;
+    height:3rem ;
+
+}
+.nav-container h1{
+    color: #3f6212;
+}
+.nav-container ul{
+    padding-left: 2rem;
+    color:#3f6212;
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    list-style-type: none;
+    /* justify-content: space-between; */
+}
